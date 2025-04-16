@@ -19,9 +19,6 @@ Beyond coding, I’ve grown through student orgs and tech programs that pushed m
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muktiabdii&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=muktiabdii&icon=0&color=0)](https://visitcount.itsvg.in)
 
